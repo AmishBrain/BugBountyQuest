@@ -1,0 +1,3 @@
+C:/Users/amish/CLionProjects/BugBountyQuest/cmake-build-debug/CMakeFiles/BugBountyQuest.dir
+C:/Users/amish/CLionProjects/BugBountyQuest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amish/CLionProjects/BugBountyQuest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
